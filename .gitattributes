@@ -1,0 +1,20 @@
+#	换行符设置
+*	text=auto
+*.txt	text eol=lf
+*.md	text eol=lf
+*.cs	text eol=lf
+*.vcproj	text eol=lf
+*.sh	text eol=lf
+*.ps1	text eol=lf
+*.tex	text eol=lf
+*.c	text eol=lf
+*.h	text eol=lf
+*.cpp	text eol=lf
+*.hpp	text eol=lf
+*.C	text eol=lf
+*.cxx	text eol=lf
+*.cc	text eol=lf
+*.java	text eol=lf
+*.py	text eol=lf
+*.go	text eol=lf
+*.rs	text eol=lf
