@@ -1,0 +1,9 @@
+[package]
+name = "mfs"
+version = "0.1.0"
+edition = "2018"
+authors = ["GOSCPS <goscps@foxmail.com>","chhdao <me@kawayi.moe>"]
+license-file = "PeopleLicense"
+
+[dependencies]
+guuid = {version = "1.0.0",default-features = false,features = ["alloc"]}
